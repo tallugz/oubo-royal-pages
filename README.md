@@ -1,2 +1,14 @@
 # oubo-royal-pages
-HTML page archive and documentation
+
+独立页面发布说明
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
